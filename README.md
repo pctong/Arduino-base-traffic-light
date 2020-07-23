@@ -6,7 +6,7 @@ Hardware list :
 
 3. 7-seg LED common anode
 
-4. buzzer
+4. passive buzzer
 
 5. red LED x3
 
